@@ -1,0 +1,59 @@
+# Mac
+*.DS_Store
+
+# Vim
+*.swp
+
+# Libraries
+GUI
+FLTK
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+*.ipch
+*.log
+*.ilk
+*.pdb
+*.tlog
+*.idb
+*.txt
+*.suo
+*.sln
+*.vcxproj
+*.obj.enc
+
+
+
+*.user
+
+*.filters
+
+*.db
